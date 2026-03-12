@@ -6,6 +6,9 @@ For example, with a DPI scale of 200%, all UI pixels become twice as large as th
 
 For the most part, you don't have to do anything and Flax takes care of everything for you. However, one thing to watch out for is translating vectors, like the mouse position, between the different 'coordinate spaces'. 
 
+> [!Tip]
+> Running editor or game with `-lowdpi` command line will disable High DPI awareness support.
+
 ## Screen Space
 
 One pixel in screen space is exactly one pixel on the screen. Screen space also stretches across all monitors.

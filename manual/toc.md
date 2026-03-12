@@ -345,6 +345,7 @@
 ### [How to create UI](ui/tutorials/create-ui.md)
 ### [How to create UI from code](ui/tutorials/create-ui-from-code.md)
 ### [How to create a custom font material](ui/tutorials/create-font-material.md)
+### [How to create an outline font material](ui/tutorials/create-outline-font-material.md)
 ### [How to create a custom GUI material](ui/tutorials/create-gui-material.md)
 ### [How to blur UI panel background](ui/tutorials/blur-background.md)
 ### [How to create a Main Menu](ui/tutorials/create-main-menu.md)
