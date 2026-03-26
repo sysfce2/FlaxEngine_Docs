@@ -59,6 +59,10 @@ PROFILE_GPU("MyFunction"); // or PROFILE_GPU_CPU to inject both CPU and GPU prof
 ```
 ***
 
+[Debug Command](../../scripting/advanced/debug-commands.md) `ProfilerGPU.Dump` profiles next frame(s) rendering performance and dumps the results to the log (as a hierarchy structure). When using more than 1 frame, the results are averaged for more accurate profiling (especially for A/B testing).
+
+![GPU Dump Command](media/gpu-dump-command.png)
+
 ### Memory
 
 ![Memory Profiler in Editor](media/memory-profiler-editor.png)
