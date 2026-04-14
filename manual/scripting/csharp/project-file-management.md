@@ -31,7 +31,7 @@ public override void Setup(BuildOptions options)
 
 In order to add **Nuget-packages** to your project, please see the dedicated section [here](nuget-packages.md).
 
-For a more thorough example to use third-party libraries can be found [here](../tutorials/use-third-party-library.html#using-c-library).
+For a more thorough example to use third-party libraries can be found [here](../tutorials/use-third-party-library.md).
 
 # Analyzers and source generators
 

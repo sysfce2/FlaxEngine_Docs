@@ -6,7 +6,7 @@
 
 Flax supports **iOS 14 or newer**. For graphics rendering Vulkan is used via MoltenVK to run on Metal.
 
-iOS doesn't allow dynamic code execution thus Flax uses [AOT](../scripting/restrictions.md) in order to precompile C# code into native.
+iOS doesn't allow dynamic code execution thus Flax uses [AOT](../scripting/csharp/restrictions.md) in order to precompile C# code into native.
 
 ## iOS Setup
 
