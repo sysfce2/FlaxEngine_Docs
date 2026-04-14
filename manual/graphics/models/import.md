@@ -101,6 +101,7 @@ Flax uses the same import settings data schemes for **models**, **skinned models
 | **Translation** | Custom import geometry offset applied to the imported model data. |
 | **Use Local Origin** | If checked, the imported geometry will be shifted to its local transform origin. |
 | **Center Geometry** | If checked, the imported geometry will be shifted to the center of mass. |
+| **Ignore Nodes Scale** | If checked, the importer will ignore nodes scale property. |
 |||
 | **Animation** ||
 | **Duration** | Specifies the imported animation duration mode. Can use the original value or be overriden by settings. Possible options: <table><tbody><tr><th>Option</th><th>Description</th></tr><tr><td>**Imported**</td><td>The imported duration.</td></tr><tr><td>**Custom**</td><td>The custom duration specified via keyframes range.</td></tr></table></tbody>|
@@ -117,6 +118,8 @@ Flax uses the same import settings data schemes for **models**, **skinned models
 | **Base LOD** | The index of the LOD from the source model data to use as a reference for following LODs generation. |
 | **LOD Count** | The amount of LODs to include in the model (all remaining ones starting from Base LOD will be generated). |
 | **Triangle Reduction** | The target amount of triangles for the generated LOD (based on the higher LOD). Normalized to range 0-1. For instance 0.4 cuts the triangle count to 40%. |
+| **Sloppy Optimization** | Whether to do a sloppy mesh optimization. This is faster but does not follow the topology of the original mesh. |
+| **LOD Target Error** | Target error is an approximate measure of the deviation from the original mesh using distance normalized to `[0,1]` range (e.g. `0.01` means that simplifier will try to maintain the error to be below `1%` of the mesh extents). *Only used if Sloppy is unchecked.* |
 |||
 | **Import Materials** | If checked, the importer will create materials for model meshes as specified in the file. |
 | **Import Materials As Instances** | If checked, the importer will create the model's materials as instances of a base material. |
