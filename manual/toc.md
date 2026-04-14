@@ -259,6 +259,7 @@
 ### [Graph Parameters](animation/anim-graph/parameters.md)
 ### [State Machines](animation/anim-graph/state-machine.md)
 ### [Inverse Kinematics](animation/anim-graph/inverse-kinematics.md)
+### [Physics](animation/anim-graph/physics.md)
 ### [Functions](animation/anim-graph/functions.md)
 ### [Animation Slots](animation/anim-graph/animation-slots.md)
 ### [Instance Data](animation/anim-graph/instance-data.md)

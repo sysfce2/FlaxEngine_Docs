@@ -20,6 +20,7 @@ This documentation section describes how to work with the Flax animation pipelin
  * [Graph Parameters](anim-graph/parameters.md)
  * [State Machines](anim-graph/state-machine.md)
  * [Inverse Kinematics](anim-graph/inverse-kinematics.md)
+ * [Physics](anim-graph/physics.md)
  * [Functions](anim-graph/functions.md)
  * [Animation Slots](anim-graph/animation-slots.md)
  * [Instance Data](anim-graph/instance-data.md)

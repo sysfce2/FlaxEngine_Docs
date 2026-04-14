@@ -12,6 +12,7 @@ This documentation section explains the basics and shows how to create and use t
 * [Graph Parameters](parameters.md)
 * [State Machines](state-machine.md)
 * [Inverse Kinematics](inverse-kinematics.md)
+* [Physics](physics.md)
 * [Functions](functions.md)
 * [Animation Slots](animation-slots.md)
 * [Instance Data](instance-data.md)
