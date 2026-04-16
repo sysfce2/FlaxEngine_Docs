@@ -134,3 +134,4 @@ Flax supports decoding and playing `.mp4` videos in format `H.264` across all pl
 | **PS4** | *AvPlayer* | X |  |  | FullHD |
 | **PS5** | *AvPlayer* | X |  |  | FullHD |
 | **Switch** | *movie* | X |  |  | FullHD |
+| **Web** | *not implemented* |  |  |  |  |

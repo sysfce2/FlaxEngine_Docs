@@ -49,6 +49,7 @@ You can use the *Content* window to create new settings. Simply right-click in t
 | **Switch** | Reference to [Switch Settings](../../platforms/switch.md) settings. Contains options used when building game for Switch. |
 | **macOS** | Reference to [macOS](../../platforms/mac.md) asset. Contains options used when building game for macOS. |
 | **iOS** | Reference to [iOS](../../platforms/ios.md) asset. Contains options used when building game for iOS. |
+| **Web** | Reference to [Web](../../platforms/web.md) asset. Contains options used when building game for Web. |
 
 ## Accessing settings at runtime
 

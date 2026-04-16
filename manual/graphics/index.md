@@ -11,6 +11,7 @@ This section explains all you need to know about working with the materials pipe
 * DirectX 11 (with DirectX 10/10.1 fallback)
 * DirectX 12
 * Vulkan
+* WebGPU
 * Null
 * Platform native (eg. on PS4)
 

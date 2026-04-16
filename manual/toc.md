@@ -448,6 +448,7 @@
 ## [Switch](platforms/switch.md)
 ## [macOS](platforms/mac.md)
 ## [iOS](platforms/ios.md)
+## [Web](platforms/web.md)
 
 # [Contributing](contributing/index.md)
 ## [Feature Requests](contributing/feature-requests.md)

@@ -13,6 +13,7 @@ Flax uses *GPUPipelineState* objects that wrap the whole graphics pipeline state
 * DirectX 11 (with DirectX 10/10.1 fallback)
 * DirectX 12
 * Vulkan
+* WebGPU
 * Null
 * Platform native (eg. on PS4)
 

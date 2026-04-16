@@ -18,6 +18,7 @@ This section covers the specific information for different aspects of each platf
 * [Switch](switch.md)
 * [macOS](mac.md)
 * [iOS](ios.md)
+* [Web](web.md)
 
 > [!TIP]
 > To check on which platform game is running use [Platform.Platform](https://docs.flaxengine.com/api/FlaxEngine.Platform.html#FlaxEngine_Application_Platform). You can also use [preprocessor variables](../scripting/preprocessor.md) in your code.
@@ -27,6 +28,7 @@ This section covers the specific information for different aspects of each platf
 * DirectX 11 (with DirectX 10/10.1 fallback)
 * DirectX 12
 * Vulkan
+* WebGPU
 * Null
 * Platform native (eg. on PS4)
 

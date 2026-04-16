@@ -29,6 +29,7 @@ public override void OnStart()
 | **PLATFORM_SWITCH** | Compile for Switch. |
 | **PLATFORM_MAC** | Compile for macOS. |
 | **PLATFORM_IOS** | Compile for iOS. |
+| **PLATFORM_WEB** | Compile for Web. |
 | **FLAX_X** | Used to detect Flax version during compilation. X=major version of Flax. eg. `FLAX_1`. |
 | **FLAX_X_Y** | Used to detect Flax version during compilation. X=major version of Flax. Y=minor version of Flax. eg. `FLAX_1_2`. |
 | **FLAX_X_Y_OR_NEWER** | Used to detect Flax version during compilation. X=major version of Flax. Y=minor version of Flax. eg. `FLAX_1_6_OR_NEWER`. Can be used to distinguish API usage between old and new versions. |
