@@ -27,7 +27,6 @@ Flax is compiled for Windows platform using Microsoft Visual C++ compiler. It us
 | **Screen Width** | The default game window width (in pixels). |
 | **Screen Height** | The default game window height (in pixels). |
 | **Resizable Window** | Enables resizing the game window by the user. |
-| **Run In Background** | Enables game running when application window loses focus. |
 | **Force Single Instance** | Limits maximum amount of concurrent game instances running to one, otherwise user may launch application more than once. |
 | **Override Icon** | Custom icon texture to use for the application (overrides the default one). |
 | **Support DirectX 12** | Enables support for DirectX 12. Disabling it reduces compiled shaders count. |

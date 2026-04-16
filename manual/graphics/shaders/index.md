@@ -36,6 +36,8 @@ As an extension to the HLSL language, Flax uses a small set of **attribute macro
 | `META_CB_BEGIN(index, name)` | Marks the beginning of the constant buffer definition. |
 | `META_CB_END` | Marks the end of the constant buffer definition. |
 
+`minFeatureLevel` should be `AUTO` for automatic detection or specific Feature Level: `FEATURE_LEVEL_ES2`, `FEATURE_LEVEL_SM4`, `FEATURE_LEVEL_SM5`, `FEATURE_LEVEL_SM6`.
+
 #### Shader permutations
 
 One of the features of the shading language in Flax is ability to explicitly permute a shader source using a meta attributes with defines. To understand it take a look at the following example:
