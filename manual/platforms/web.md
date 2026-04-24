@@ -31,7 +31,7 @@ Flax outputs JavaScript code that checks for the minimum browser version and war
 
 ### JSPI vs ASYNCIFY
 
-**JSPI** is a relitivly new API thus not all browsers support it by default thus it's possible to build engine with old-compatible [Asyncify](https://emscripten.org/docs/porting/asyncify.html) and lower the requrements hovewer recent browsers contain more stable and suabe WebGPU implementation which is desired sinc it's also relatively new API. You can fork engine and change `WithAsyncify` to `1` inside `GraphicsDeviceWebGPU.Build.cs` to build Web game with wider browser support at cost of significantly larger output website files.
+**JSPI** is a relitivly new API thus not all browsers support it by default thus it's possible to build engine with old-compatible [Asyncify](https://emscripten.org/docs/porting/asyncify.html) and lower the requrements hovewer recent browsers contain more stable and usable WebGPU implementation which is desired sinc it's also relatively new API. You can fork engine and change `WithAsyncify` to `1` inside `GraphicsDeviceWebGPU.Build.cs` to build Web game with wider browser support at cost of significantly larger output website files.
 
 ### Limitations
 

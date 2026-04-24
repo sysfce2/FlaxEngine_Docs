@@ -261,7 +261,7 @@ PRs merged: 43
 * Add name to Android main thread
 * Add limits to cloth brush values
 * Add support for including global configs in engine configuration options
-* Add .NET SDK version `7` as forced to be used during game cooking (dotnet8 can be sued with Editor)
+* Add .NET SDK version `7` as forced to be used during game cooking (dotnet8 can be used with Editor)
 * Add clearing BT memory in non-release builds to make issues spotting easier
 * Add better errors logging to BT nodes in case of issues
 * Add soft check for null managed object value for unboxing
