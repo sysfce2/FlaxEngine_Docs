@@ -115,6 +115,7 @@
 ### [Signed Distance Fields](graphics/models/sdf.md)
 ### [How to generate procedural model](graphics/models/generate-model.md)
 ## [Lighting](graphics/lighting/index.md)
+### [Color Space](graphics/lighting/color-space.md)
 ### [Light Types](graphics/lighting/light-types/index.md)
 #### [Directional Light](graphics/lighting/light-types/directional-light.md)
 #### [Point Light](graphics/lighting/light-types/point-light.md)
@@ -457,6 +458,7 @@
 ## [Public Projects](contributing/public-projects.md)
 
 # [Release Notes](release-notes/index.md)
+## [1.12 release notes](release-notes/1_12/index.md)
 ## [1.11 release notes](release-notes/1_11/index.md)
 ## [1.10 release notes](release-notes/1_10/index.md)
 ## [1.9 release notes](release-notes/1_9/index.md)

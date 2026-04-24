@@ -7,6 +7,7 @@ All subpages break down the major aspects of the lighting the environment. Follo
 
 ## In this section
 
+* [Color Space](color-space.md)
 * [Light Types](light-types/index.md)
  * [Directional Light](light-types/directional-light.md)
  * [Point Light](light-types/point-light.md)
@@ -23,4 +24,3 @@ All subpages break down the major aspects of the lighting the environment. Follo
  * [Lightmap UVs](gi/lightmap-uvs.md)
  * [Lightmapping](gi/lightmapping.md)
  * [Lightmap Settings](gi/settings.md)
-
