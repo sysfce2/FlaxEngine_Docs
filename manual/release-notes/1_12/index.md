@@ -137,11 +137,11 @@ We've updated minimum versions of various platforms to support the latest featur
 
 ## Changelog
 
-### Version 1.12.6912.0 - 24 April 2025
+### Version 1.12.6912.0 - 19 May 2025
 
 Contributors: mafiesto4, xxSeys1, GoaLitiuM, Yahasana, Tryibion, VitaminCpp, AcidicVoid, Inertia-Squared, ThePhantomMask, socialtwisty, lifeformed, fibref, Menotdan, alsed, envision3d, Zode
 
-PRs merged: 110
+PRs merged: 111
 
 * **Add Web export support**
 * Add new collection type `ConcurrentDictionary`
